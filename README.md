@@ -1,2 +1,3 @@
 # hello-world
-The beginning
+
+Gotta start somewhere, right? First edit.
